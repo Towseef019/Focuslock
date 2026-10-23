@@ -1,1 +1,0 @@
-Write access check for FocusLock.
